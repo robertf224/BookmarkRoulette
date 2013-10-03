@@ -3,7 +3,7 @@
 
 	"name": "Bookmark Roulette",
 	"description": "An extension to force you to start actually reading your monumental catalog of bookmarks",
-	"version": "1.0",
+	"version": "1.1",
 
   "permissions": [
     "bookmarks",
